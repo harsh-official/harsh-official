@@ -33,21 +33,21 @@
   <a href="https://github.com/harsh-official" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-harsh--official-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/harsh-official" target="_blank">
+  <a href="https://www.linkedin.com/in/harshraj141" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harsh.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/harsh_official" target="_blank">
+  <a href="https://twitter.com/the_harsh_raj" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://harsh-portfolio.dev" target="_blank">
+  <a href="https://www.cse.iitb.ac.in/~harshraj/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=harsh" target="_blank">
+  <!-- <a href="https://scholar.google.com/citations?user=harsh" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
+  </a> -->
 </div>
 
 ---
